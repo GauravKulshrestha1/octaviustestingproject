@@ -1,0 +1,40 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Test">
+      <class name="tooctavius.AddLogin">
+        <test-method is-config="true" signature="launchBrowser()" started-at="2022-12-13T10:19:38Z" name="launchBrowser" finished-at="2022-12-13T10:19:41Z" duration-ms="3021" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="launchBrowser()" started-at="2022-12-13T10:19:41Z" name="launchBrowser" finished-at="2022-12-13T10:19:44Z" duration-ms="2203" status="PASS">
+        </test-method>
+        <test-method signature="InsertCredentialsEmai()" started-at="2022-12-13T10:19:44Z" name="InsertCredentialsEmai" finished-at="2022-12-13T10:19:55Z" duration-ms="11257" status="PASS">
+        </test-method>
+      </class>
+      <class name="tooctavius.Firts">
+        <test-method signature="CheckBrowserTitleText()" started-at="2022-12-13T10:19:55Z" name="CheckBrowserTitleText" finished-at="2022-12-13T10:19:55Z" duration-ms="11" status="PASS">
+        </test-method>
+        <test-method signature="CheckEmailValidationErrorMessage()" started-at="2022-12-13T10:19:55Z" name="CheckEmailValidationErrorMessage" finished-at="2022-12-13T10:19:55Z" duration-ms="111" status="PASS">
+        </test-method>
+        <test-method signature="CheckForgotPasswordLink()" started-at="2022-12-13T10:19:55Z" name="CheckForgotPasswordLink" finished-at="2022-12-13T10:19:55Z" duration-ms="36" status="PASS">
+        </test-method>
+        <test-method signature="CheckPageURL()" started-at="2022-12-13T10:19:55Z" name="CheckPageURL" finished-at="2022-12-13T10:19:55Z" duration-ms="9" status="PASS">
+        </test-method>
+        <test-method signature="CheckPasswordValidationErrorMessage()" started-at="2022-12-13T10:19:55Z" name="CheckPasswordValidationErrorMessage" finished-at="2022-12-13T10:19:55Z" duration-ms="81" status="PASS">
+        </test-method>
+        <test-method signature="CheckTextFind()" started-at="2022-12-13T10:19:55Z" name="CheckTextFind" finished-at="2022-12-13T10:19:55Z" duration-ms="35" status="PASS">
+        </test-method>
+        <test-method signature="IsLogintextboxEmpty()" started-at="2022-12-13T10:19:55Z" name="IsLogintextboxEmpty" finished-at="2022-12-13T10:19:55Z" duration-ms="23" status="PASS">
+        </test-method>
+        <test-method signature="IsPasswordtextboxEmpty()" started-at="2022-12-13T10:19:55Z" name="IsPasswordtextboxEmpty" finished-at="2022-12-13T10:19:55Z" duration-ms="20" status="PASS">
+        </test-method>
+        <test-method signature="LogoCheck()" started-at="2022-12-13T10:19:55Z" name="LogoCheck" finished-at="2022-12-13T10:20:00Z" duration-ms="5029" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="terminateBrowser()" started-at="2022-12-13T10:20:00Z" name="terminateBrowser" finished-at="2022-12-13T10:20:00Z" duration-ms="112" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

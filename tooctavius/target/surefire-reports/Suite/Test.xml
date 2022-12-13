@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite tests="10" failures="0" name="Test" time="21.954" errors="0">
+  <properties/>
+  <testcase classname="tooctavius.AddLogin" name="InsertCredentialsEmai" time="11.257"/>
+  <testcase classname="tooctavius.Firts" name="CheckBrowserTitleText" time="0.011"/>
+  <testcase classname="tooctavius.Firts" name="CheckEmailValidationErrorMessage" time="0.111"/>
+  <testcase classname="tooctavius.Firts" name="CheckForgotPasswordLink" time="0.036"/>
+  <testcase classname="tooctavius.Firts" name="CheckPageURL" time="0.009"/>
+  <testcase classname="tooctavius.Firts" name="CheckPasswordValidationErrorMessage" time="0.081"/>
+  <testcase classname="tooctavius.Firts" name="CheckTextFind" time="0.035"/>
+  <testcase classname="tooctavius.Firts" name="IsLogintextboxEmpty" time="0.023"/>
+  <testcase classname="tooctavius.Firts" name="IsPasswordtextboxEmpty" time="0.02"/>
+  <testcase classname="tooctavius.Firts" name="LogoCheck" time="5.029"/>
+</testsuite>
